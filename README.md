@@ -1,2 +1,4 @@
 # Dragonfly_Capstone
 Capstone Project
+
+DNA sequence evolution is fundamentally important for us to understand species adaptation and divergence (speciation). DNA sequences can be studied across different organisms, and also by dense sampling within a specific species. Most work on intraspecies variability has been done on humans; however very little has been done on other animals or insects. Dr. Seth Bybee has sequenced a large number of genes for two different clades of Dragonfly. Each clade has approximately 100 individuals sequenced. This project will analyze the DNA sequencing data to join the two datasets on common genes and create a phylogenetic tree, identify common sequence variants and create a map of variant allele frequencies, and identify alleles that segregate the two clades of dragonfly and alleles that are commonly varying. 
